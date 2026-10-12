@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Macro Deck</string>
+    <string name="action_connect">Conectar</string>
+    <string name="action_disconnect">Desconectar</string>
+    <string name="status_connected">Conectado</string>
+    <string name="status_connecting">Conectando...</string>
+    <string name="status_disconnected">Desconectado</string>
+    <string name="status_error">Error de Conexión</string>
+    <string name="server_ip_hint">Dirección IP (ej. 192.168.1.100)</string>
+    <string name="server_port_hint">Puerto (ej. 8191)</string>
+</resources>

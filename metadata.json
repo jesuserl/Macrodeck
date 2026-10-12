@@ -1,0 +1,6 @@
+{
+  "name": "Macro Deck",
+  "description": "Cliente nativo de alto rendimiento para Macro Deck 3 Server con WebSockets, modo inmersivo horizontal, decodificación asíncrona de iconos y respuesta háptica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
